@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -n"
+    "deploy": "gh-pages -d build "
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "latest"
+    "gh-pages": "^2.1.0"
   }
 }
