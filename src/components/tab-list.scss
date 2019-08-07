@@ -1,0 +1,49 @@
+.tab-list {
+  z-index: 1029;
+  font-size: 1.07rem;
+  flex-wrap: nowrap;
+  overflow-x: visible;
+  overflow-y: hidden;
+  padding-inline-start: 0;
+  border-color: $gray-400;
+  > .nav-item {
+    > .nav-link {
+      background: none;
+      border: none;
+      &.active {
+        background: none;
+        border: none;
+        border-bottom: 4px solid $primary;
+      }
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .tab-list {
+    font-size: .85rem;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    position: fixed;
+    background-color: $info;
+    padding-top: 1rem;
+    top: 45px;
+    width: 100%;
+    border-radius: 0 0 1rem 1rem;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .18);
+    border: none;
+    > .nav-item {
+      > .nav-link {
+        color: $white;
+        opacity: .5;
+        padding: .7rem .3rem 1rem;
+        &.active {
+          opacity: 1;
+          border: none;
+
+        }
+      }
+    }
+  }
+}

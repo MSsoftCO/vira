@@ -1,0 +1,20 @@
+header {
+  height: 60px;
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .14);
+  .navbar-nav {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    .nav-item {
+      margin-left: 1rem;
+      &:last-child {
+        margin-left: 0
+      }
+    }
+  }
+}
+@media (max-width: 575.98px) {
+  header.navbar {
+    box-shadow: none;
+    border-radius: 0 0 1rem 1rem;
+  }
+}
