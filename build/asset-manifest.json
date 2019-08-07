@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d59c62a4.chunk.css",
+    "main.js": "/static/js/main.fd4d5e82.chunk.js",
+    "main.js.map": "/static/js/main.fd4d5e82.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.f3d19284.chunk.css": "/static/css/2.f3d19284.chunk.css",
+    "static/js/2.4b8d675d.chunk.js": "/static/js/2.4b8d675d.chunk.js",
+    "static/js/2.4b8d675d.chunk.js.map": "/static/js/2.4b8d675d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.45b4c110f829312d82390d5062025ece.js": "/precache-manifest.45b4c110f829312d82390d5062025ece.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f3d19284.chunk.css.map": "/static/css/2.f3d19284.chunk.css.map",
+    "static/css/main.d59c62a4.chunk.css.map": "/static/css/main.d59c62a4.chunk.css.map",
+    "static/media/font-face.css": "/static/media/Vazir.c353f7ef.woff2",
+    "static/media/arsenal-logo.png": "/static/media/arsenal-logo.b7c508aa.png",
+    "static/media/chelsea-logo.png": "/static/media/chelsea-logo.b4ae7585.png",
+    "static/media/everton-logo.png": "/static/media/everton-logo.bf421044.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/liverpool-logo.png": "/static/media/liverpool-logo.1086e9fd.png",
+    "static/media/manchester-city-logo.png": "/static/media/manchester-city-logo.c4913e1b.png",
+    "static/media/manchester-united-logo.png": "/static/media/manchester-united-logo.d205c32a.png",
+    "static/media/masod-ozil.jpg": "/static/media/masod-ozil.16d1bc6c.jpg"
+  }
+}
