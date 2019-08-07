@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vira/precache-manifest.29863464c189feabaad52970c0bb2d6b.js"
+  "/vira/precache-manifest.ead588eda7eb1954de44a5a9d96173ff.js"
 );
 
 self.addEventListener('message', (event) => {

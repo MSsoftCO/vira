@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5987cfd2af6fd44b845c7005d2863b9d",
+    "revision": "d82a90382cf5e58830ba712d36edf3bd",
     "url": "/vira/index.html"
   },
   {
-    "revision": "82d973e8e99f9c3d7c3a",
+    "revision": "a3a606bb33b255359ccb",
     "url": "/vira/static/css/2.5d920484.chunk.css"
   },
   {
-    "revision": "105a304e65dc338ecf0f",
-    "url": "/vira/static/css/main.d59c62a4.chunk.css"
+    "revision": "978712ef34e9a9de6982",
+    "url": "/vira/static/css/main.b5264b23.chunk.css"
   },
   {
-    "revision": "82d973e8e99f9c3d7c3a",
-    "url": "/vira/static/js/2.4b8d675d.chunk.js"
+    "revision": "a3a606bb33b255359ccb",
+    "url": "/vira/static/js/2.6b5c5e45.chunk.js"
   },
   {
-    "revision": "105a304e65dc338ecf0f",
-    "url": "/vira/static/js/main.13fea0b8.chunk.js"
+    "revision": "978712ef34e9a9de6982",
+    "url": "/vira/static/js/main.85d4cf77.chunk.js"
   },
   {
     "revision": "1a096b1daaf3cfe463f5",
